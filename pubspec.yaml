@@ -1,0 +1,91 @@
+name: grad_ease
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  build_runner: ^2.4.7
+  cached_network_image: ^3.3.1
+  cloud_firestore: ^5.6.7
+  cloud_functions: ^5.5.0
+  cupertino_icons: ^1.0.8
+  dio: ^5.8.0+1
+  docx_to_text: ^1.0.1
+  easy_localization: ^3.0.3
+  file_picker: ^10.1.9
+  firebase_auth: ^5.5.2
+  firebase_core: ^3.13.0
+  firebase_messaging: ^15.2.5
+  firebase_storage: ^12.4.5
+  fl_chart: ^0.65.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.3
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.3.5
+  flutter_screenutil: ^5.9.0
+  flutter_secure_storage: ^9.2.2
+  flutter_svg: ^2.0.17
+  google_generative_ai: ^0.4.3
+  freezed: ^2.4.5
+  freezed_annotation: ^2.4.1
+  get_it: ^7.6.4
+  intl: ^0.20.2
+  json_annotation: ^4.8.1
+  json_serializable: ^6.7.1
+  loading_animation_widget: ^1.2.0+2
+  pretty_dio_logger: ^1.3.1
+  provider: ^6.0.5
+  retrofit: ^4.0.3
+  retrofit_generator: ^8.0.4
+  shared_preferences: ^2.2.3
+  shimmer: ^3.0.0
+  smooth_page_indicator: ^1.2.1
+  url_launcher: ^6.3.1
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/LOGO.png
+    - assets/head.png
+    - assets/head2.png
+    - assets/done.png
+    - assets/design1.png
+    - assets/design2.png
+    - assets/chat.png
+    - assets/ai.png
+    - assets/aibig.png
+    - assets/notification.png
+    - assets/github.png
+    - assets/documentation.png
+    - assets/LOGO2.png
+    - assets/STUDENT.png
+    - assets/SUPERVISOR.png
+    - assets/gradchat.png
+    - assets/bg.png
+    - assets/bgd.png
+    - assets/chat.png
+    - assets/profile.png
+    - assets/chat2.png
+    - assets/icons/chat.png
+    - assets/icons/chat.png
+    - assets/icons/pdf.svg
+    - assets/icons/pdf2.svg
+    - assets/icons/pdf.png
+    - assets/icons/edit.png
+    - assets/done.png
+    - assets/attend.png
+    - assets/progress.png
+    - assets/app_logo.png
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/app_logo.png"

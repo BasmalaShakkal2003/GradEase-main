@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046037338105",
+    "project_id": "gradease-a5c4e",
+    "storage_bucket": "gradease-a5c4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046037338105:android:695d1d4813ff137aba4f28",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgGCA6Tlx_vtsGNNsl98Mm02O1lntBxHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
